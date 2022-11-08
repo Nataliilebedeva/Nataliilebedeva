@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natalia-lebedeva&repo=github-readme-stats&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natalia-lebedeva&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=natalia-lebedeva&show_icons=true&theme=buefy)
 
